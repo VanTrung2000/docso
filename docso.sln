@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docso", "docso\docso.csproj", "{81D38D07-A802-4183-9F67-DE0DDE48E8EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D38D07-A802-4183-9F67-DE0DDE48E8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D38D07-A802-4183-9F67-DE0DDE48E8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D38D07-A802-4183-9F67-DE0DDE48E8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D38D07-A802-4183-9F67-DE0DDE48E8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F1DA513-5A97-413F-9145-A0CC4AB43327}
+	EndGlobalSection
+EndGlobal
